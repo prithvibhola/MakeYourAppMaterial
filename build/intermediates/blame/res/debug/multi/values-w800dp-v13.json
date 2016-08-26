@@ -1,0 +1,102 @@
+[
+    {
+        "outputFile": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\build\\intermediates\\res\\merged\\debug\\values-w800dp-v13\\values-w800dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 286,
+                        "endColumn": 53,
+                        "endOffset": 335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 47,
+                    "endOffset": 152
+                },
+                "from": {
+                    "file": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 34,
+                        "endColumn": 47,
+                        "endOffset": 77
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 157,
+                    "endColumn": 55,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 82,
+                        "endColumn": 55,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endColumn": 49,
+                    "endOffset": 258
+                },
+                "from": {
+                    "file": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 161,
+                        "endColumn": 49,
+                        "endOffset": 206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 263,
+                    "endColumn": 53,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "C:\\Drive\\Work\\Android\\Udacity\\My Projects\\XYZReader\\src\\main\\res\\values-w800dp\\macro_layout.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 211,
+                        "endColumn": 53,
+                        "endOffset": 260
+                    }
+                }
+            }
+        ]
+    }
+]

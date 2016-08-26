@@ -1,0 +1,22 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_title_text_size">42sp</dimen>
+    <dimen name="detail_body_text_size">20sp</dimen>
+    <item name="detail_body_line_spacing_multiplier" format="float" type="fraction">1.3</item>
+    <dimen name="fab_margin">24dp</dimen>
+
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="up_margin_left">56dp</dimen>
+    <dimen name="rv_margin_bottom">28dp</dimen>
+    <dimen name="cv_margin">4dp</dimen>
+    <dimen name="cv_text_margin">16dp</dimen>
+
+    <dimen name="height_toolbar">180dp</dimen>
+    <dimen name="height_app_bar">300dp</dimen>
+    <dimen name="fab_margin_right">20dp</dimen>
+    <dimen name="fab_margin_top">150dp</dimen>
+
+    <dimen name="app_bar_elevation">4dp</dimen>
+
+    <dimen name="logo_margin_bottom">16dp</dimen>
+</resources>
